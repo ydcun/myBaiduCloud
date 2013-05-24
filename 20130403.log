@@ -1,0 +1,208 @@
+
+连接到: Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production
+With the Partitioning, OLAP and Oracle Data Mining options
+JServer Release 9.2.0.1.0 - Production
+已导出 ZHS16GBK 字符集和 AL16UTF16 NCHAR 字符集
+
+即将导出指定的用户...
+. 正在导出 pre-schema 过程对象和操作
+. 正在导出用户 XKJ_KB 的外部函数库名称
+. 导出 PUBLIC 类型同义词
+. 导出私有类型同义词
+. 正在导出用户 XKJ_KB 的对象类型定义
+即将导出 XKJ_KB 的对象 ...
+. 正在导出数据库链接
+. 正在导出序号
+. 正在导出群集定义
+. 即将导出 XKJ_KB 的表通过常规路径 ...
+. . 正在导出表                             CAT          1 行被导出
+. . 正在导出表                          CONFIG          0 行被导出
+. . 正在导出表             CUSSERVICE_APPENDIX        112 行被导出
+. . 正在导出表                CUSSERVICE_APPLY         24 行被导出
+. . 正在导出表               CUSSERVICE_ASSIGN       4364 行被导出
+. . 正在导出表             CUSSERVICE_BUGLEVEL        158 行被导出
+. . 正在导出表              CUSSERVICE_COMMENT        259 行被导出
+. . 正在导出表         CUSSERVICE_FLOW_OPERATE         16 行被导出
+. . 正在导出表          CUSSERVICE_FLOW_SCHEME         14 行被导出
+. . 正在导出表            CUSSERVICE_FLOW_STEP         13 行被导出
+. . 正在导出表                  CUSSERVICE_LOG       5311 行被导出
+. . 正在导出表                  CUSSERVICE_MSG      10938 行被导出
+. . 正在导出表      CUSSERVICE_NEW_REQUIREMENT         57 行被导出
+. . 正在导出表           CUSSERVICE_OPTIONDICT         30 行被导出
+. . 正在导出表              CUSSERVICE_PROJECT        189 行被导出
+. . 正在导出表        CUSSERVICE_PROJECT_CLASS          4 行被导出
+. . 正在导出表                CUSSERVICE_PROXY          6 行被导出
+. . 正在导出表          CUSSERVICE_STEP_CONFIG         13 行被导出
+. . 正在导出表           CUSSERVICE_WORKDETAIL       1071 行被导出
+. . 正在导出表            CUSSERVICE_WORKSHEET       1028 行被导出
+. . 正在导出表                       CUSTOMERS          0 行被导出
+. . 正在导出表                   DEMO_EMPLOYEE        115 行被导出
+. . 正在导出表                    DEMO_EMP_JOB         83 行被导出
+. . 正在导出表                       DEMO_JOBS         17 行被导出
+. . 正在导出表                EFFECT_ATTRIBUTE         42 行被导出
+. . 正在导出表                  EFFECT_RECORDS          0 行被导出
+. . 正在导出表               EFFECT_RECORDTYPE          0 行被导出
+. . 正在导出表                 EFFECT_TYPELIST          0 行被导出
+. . 正在导出表                 ENTERPRISE_USER          3 行被导出
+. . 正在导出表           FEEDBACK_BUSINESSDEPT          6 行被导出
+. . 正在导出表        FEEDBACK_CASECOMMUNICATE          0 行被导出
+. . 正在导出表          FEEDBACK_CHILDFEEDBACK          3 行被导出
+. . 正在导出表             FEEDBACK_CLIENTFLOW          0 行被导出
+. . 正在导出表                FEEDBACK_EMPFLOW          1 行被导出
+. . 正在导出表             FEEDBACK_EXPERIENCE          5 行被导出
+. . 正在导出表                FEEDBACK_FILIALE          3 行被导出
+. . 正在导出表              FEEDBACK_OUTGROWTH          1 行被导出
+. . 正在导出表          FEEDBACK_OUTGROWTHLIST          2 行被导出
+. . 正在导出表                 FEEDBACK_REASON          1 行被导出
+. . 正在导出表                 FEEDBACK_REVERT          3 行被导出
+. . 正在导出表            FEEDBACK_SERVICECASE          2 行被导出
+. . 正在导出表       FEEDBACK_SERVICESUPERVISE          0 行被导出
+. . 正在导出表                  FEEDBACK_SOLVE          0 行被导出
+. . 正在导出表                   FEEDBACK_VEER          0 行被导出
+. . 正在导出表                FEEDBACK_WORKLOG          8 行被导出
+. . 正在导出表               FEEDBACK_WORKTASK          1 行被导出
+. . 正在导出表          FEEDBACK_WORKTASKSLIST          1 行被导出
+. . 正在导出表                      FEE_SUBMIT          0 行被导出
+. . 正在导出表                   FUNC_APPRAISE          0 行被导出
+. . 正在导出表                   FUNC_CATEGORY         60 行被导出
+. . 正在导出表                FUNC_FURUMREVERT       4814 行被导出
+. . 正在导出表                   FUNC_FURUMSUB       1262 行被导出
+. . 正在导出表                FUNC_HOTFAVORITE          1 行被导出
+. . 正在导出表                  FUNC_INFOBOARD          4 行被导出
+. . 正在导出表            FUNC_INFOBOARDOBJECT          4 行被导出
+. . 正在导出表                FUNC_MESSAGEINFO       4084 行被导出
+. . 正在导出表           FUNC_NEWSCONTENT_READ          0 行被导出
+. . 正在导出表         FUNC_NEWSCONTENT_WORKER          0 行被导出
+. . 正在导出表                   FUNC_NOTEINFO          0 行被导出
+. . 正在导出表                     FUNC_NOTICE        305 行被导出
+. . 正在导出表             FUNC_NOTICE_USERPRI      14847 行被导出
+. . 正在导出表             FUNC_PERSONFAVORITE         38 行被导出
+. . 正在导出表                   FUNC_SCHEDULE        694 行被导出
+. . 正在导出表            FUNC_SENDMESSAGEINFO          0 行被导出
+. . 正在导出表                 FUNC_UNLINE_MSG    1587433 行被导出
+. . 正在导出表                       FUNC_VOTE         33 行被导出
+. . 正在导出表                 FUNC_VOTEOBJECT         37 行被导出
+. . 正在导出表                 FUNC_VOTEOPTION        154 行被导出
+. . 正在导出表                 FUNC_VOTERESULT        307 行被导出
+. . 正在导出表              HRM_DEPARTMENTINFO         28 行被导出
+. . 正在导出表              HRM_DEPTINFO_OLDKB         12 行被导出
+. . 正在导出表                 HRM_EMPBASEINFO        260 行被导出
+. . 正在导出表           HRM_EMPBASEINFO_OLDKB         48 行被导出
+. . 正在导出表                  HRM_EXPERTINFO          0 行被导出
+. . 正在导出表                      HRM_KAOQIN       3459 行被导出
+. . 正在导出表               HRM_USERGROUPINFO        301 行被导出
+. . 正在导出表         HRM_USERGROUPINFO_OLDKB         59 行被导出
+. . 正在导出表        INFOCOLLECT_CLIENTDEMAND          0 行被导出
+. . 正在导出表        INFOCOLLECT_DEMANDGROUPS          0 行被导出
+. . 正在导出表             INFOCOLLECT_EMULANT          0 行被导出
+. . 正在导出表    INFOCOLLECT_RIVALSHIPCOLLECT          0 行被导出
+. . 正在导出表     INFOCOLLECT_RIVALSHIPGROUPS          0 行被导出
+. . 正在导出表                        OPERATOR       1279 行被导出
+. . 正在导出表                  OPERATOR_ORGAN       1279 行被导出
+. . 正在导出表                    ORGANIZATION        116 行被导出
+. . 正在导出表                      OS_COMPACT          0 行被导出
+. . 正在导出表                  OS_COMPACT_LOG          0 行被导出
+. . 正在导出表                       OS_CONFIG          4 行被导出
+. . 正在导出表                   OS_CTI_BJSHLC          0 行被导出
+. . 正在导出表                    OS_CTI_CCQJH         15 行被导出
+. . 正在导出表                  OS_CTI_JXXCJHB          0 行被导出
+. . 正在导出表                    OS_CTI_PCDLC          4 行被导出
+. . 正在导出表                  OS_CURRENTSTEP         12 行被导出
+. . 正在导出表             OS_CURRENTSTEP_PREV         12 行被导出
+. . 正在导出表          OS_CUSSERVICE_APPENDIX          0 行被导出
+. . 正在导出表          OS_CUSSERVICE_BUGLEVEL          0 行被导出
+. . 正在导出表           OS_CUSSERVICE_COMMENT          0 行被导出
+. . 正在导出表        OS_CUSSERVICE_WORKDETAIL          0 行被导出
+. . 正在导出表         OS_CUSSERVICE_WORKSHEET          0 行被导出
+. . 正在导出表                      OS_EXPENSE         14 行被导出
+. . 正在导出表               OS_EXPENSE_DETAIL         80 行被导出
+. . 正在导出表                  OS_EXPENSE_LOG         47 行被导出
+. . 正在导出表                        OS_GROUP          7 行被导出
+. . 正在导出表                  OS_HISTORYSTEP        202 行被导出
+. . 正在导出表             OS_HISTORYSTEP_PREV        169 行被导出
+. . 正在导出表                   OS_LEAVEAPPLY          0 行被导出
+. . 正在导出表                 OS_LEAVEAPPROVE          0 行被导出
+. . 正在导出表                   OS_MEMBERSHIP         41 行被导出
+. . 正在导出表                OS_PROPERTYENTRY         48 行被导出
+. . 正在导出表                         OS_USER         40 行被导出
+. . 正在导出表                      OS_WFENTRY         33 行被导出
+. . 正在导出表                OS_WORKORDER_OBJ         31 行被导出
+. . 正在导出表              PRODUCT_BOOK_ORDER        126 行被导出
+. . 正在导出表           PRODUCT_EMP_LASTMONEY        153 行被导出
+. . 正在导出表               PRODUCT_EMP_MONEY       2657 行被导出
+. . 正在导出表              PRODUCT_FOOD_ORDER      32095 行被导出
+. . 正在导出表                    PRODUCT_INFO       4668 行被导出
+. . 正在导出表         PRODUCT_RESTAURANT_INFO        146 行被导出
+. . 正在导出表              QRTZ_BLOB_TRIGGERS          0 行被导出
+. . 正在导出表                  QRTZ_CALENDARS          0 行被导出
+. . 正在导出表              QRTZ_CRON_TRIGGERS          0 行被导出
+. . 正在导出表             QRTZ_FIRED_TRIGGERS          1 行被导出
+. . 正在导出表                QRTZ_JOB_DETAILS          1 行被导出
+. . 正在导出表              QRTZ_JOB_LISTENERS          0 行被导出
+. . 正在导出表                      QRTZ_LOCKS          5 行被导出
+. . 正在导出表        QRTZ_PAUSED_TRIGGER_GRPS          0 行被导出
+. . 正在导出表            QRTZ_SCHEDULER_STATE          1 行被导出
+. . 正在导出表            QRTZ_SIMPLE_TRIGGERS          1 行被导出
+. . 正在导出表                   QRTZ_TRIGGERS          1 行被导出
+. . 正在导出表          QRTZ_TRIGGER_LISTENERS          0 行被导出
+. . 正在导出表                 STAT_ACCESSRATE      46307 行被导出
+. . 正在导出表               SYS_KECONFIRMINFO          2 行被导出
+. . 正在导出表               SYS_KECONTENTINFO       1323 行被导出
+. . 正在导出表                  SYS_KEFILEINFO       1943 行被导出
+. . 正在导出表                     SYS_LOGINFO     169426 行被导出
+. . 正在导出表             SYS_PARAMETERDEFINE          1 行被导出
+. . 正在导出表                     SYS_PREFDEF          8 行被导出
+. . 正在导出表                  SYS_PREFDEFVAL         10 行被导出
+. . 正在导出表                   SYS_PREFGROUP          3 行被导出
+. . 正在导出表                    SYS_PREFUSER        568 行被导出
+. . 正在导出表            SYS_PREKECONTENTINFO       1340 行被导出
+. . 正在导出表                   SYS_PREKEINFO       2001 行被导出
+. . 正在导出表           SYS_PREKERELATIONINFO       2016 行被导出
+. . 正在导出表                  SYS_TREEMASTER        433 行被导出
+. . 正在导出表             SYS_USERPORTLETCONF        106 行被导出
+. . 正在导出表                SYS_USERSECURITY       1282 行被导出
+. . 正在导出表          SYS_USERSECURITYDETAIL       5579 行被导出
+. . 正在导出表              TRAIN_ANSWERDETAIL         24 行被导出
+. . 正在导出表                TRAIN_ANSWERINFO          4 行被导出
+. . 正在导出表                    TRAIN_COURSE          0 行被导出
+. . 正在导出表                TRAIN_COURSEWARE         14 行被导出
+. . 正在导出表                TRAIN_EXAMARRAGE          1 行被导出
+. . 正在导出表            TRAIN_EXAMARRAGETIME          0 行被导出
+. . 正在导出表                 TRAIN_EXAMGROUP        385 行被导出
+. . 正在导出表         TRAIN_EXAMGROUPQUESTION        421 行被导出
+. . 正在导出表                  TRAIN_EXAMINFO        128 行被导出
+. . 正在导出表                  TRAIN_EXAMUSER         10 行被导出
+. . 正在导出表                    TRAIN_OBJECT         23 行被导出
+. . 正在导出表                      TRAIN_PLAN          3 行被导出
+. . 正在导出表              TRAIN_PLANAUDITING          4 行被导出
+. . 正在导出表              TRAIN_QUESTIONINFO         14 行被导出
+. . 正在导出表        TRAIN_QUESTIONOPTIONINFO         31 行被导出
+. . 正在导出表            TRAIN_QUESTION_DOUBT          7 行被导出
+. . 正在导出表             TRAIN_STUDYPROGRESS          6 行被导出
+. . 正在导出表           T_DAILY_EMPLOYEE_PLAN        357 行被导出
+. . 正在导出表     T_DAILY_EMPLOYEE_PLAN_EVERY       2642 行被导出
+. . 正在导出表    T_DAILY_EMPLOYEE_PLAN_EVERY3         21 行被导出
+. . 正在导出表         T_DAILY_EMPLOYEE_RECORD       2449 行被导出
+. . 正在导出表           T_DAILY_EMPLOYEE_TODO       7077 行被导出
+. . 正在导出表            T_DAILY_PROJECT_INFO         17 行被导出
+. . 正在导出表          T_DAILY_PROJECT_MEMBER         66 行被导出
+. . 正在导出表            T_DAILY_PROJECT_NODE        292 行被导出
+. . 正在导出表           T_DAILY_PROJECT_STAGE          8 行被导出
+. . 正在导出表           T_DAILY_RECORD_DETAIL       5236 行被导出
+. 正在导出同义词
+. 正在导出视图
+. 正在导出存储的过程
+. 正在导出运算符
+. 正在导出引用完整性约束条件
+. 正在导出触发器
+. 正在导出索引类型
+. 正在导出位图, 功能性索引和可扩展索引
+. 正在导出后期表活动
+. 正在导出实体化视图
+. 正在导出快照日志
+. 正在导出作业队列
+. 正在导出刷新组和子组
+. 正在导出维
+. 正在导出 post-schema 过程对象和操作
+. 正在导出统计
+在没有警告的情况下成功终止导出。
