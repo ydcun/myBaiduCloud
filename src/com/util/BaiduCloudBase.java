@@ -160,6 +160,8 @@ public class BaiduCloudBase {
 		
 		return cloudInfo;
 	}
+	
+	
 	/**
 	 * 获取指定目录中详细信息
 	 * @param path 
