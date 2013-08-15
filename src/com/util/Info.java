@@ -13,11 +13,13 @@ public interface Info {
 	/**
 	 * 应用的路径 "/apps/mybaidu/"
 	 */
-	String PATH="%2fapps%2fmybaidu%2f";
+//	String PATH="%2fapps%2fmybaidu%2f";
+	String PATH="%2fapps%2fBrance%2f";//csdnFriendsOX
 	/**
 	 * 链接的token令牌
 	 */
-	String ACCESS_TOKEN = "3.ffe1020e20a52f873600aa8ef07fa609.2592000.1371955887.1091082467-879176";// token
+//	String ACCESS_TOKEN = "3.ffe1020e20a52f873600aa8ef07fa609.2592000.1371955887.1091082467-879176";// token
+	String ACCESS_TOKEN = "3.57b698cd9f99d59c4c2ba9d990eca675.2592000.1379126771.1344495316-1176036";//csdnFriendsOX
 	/**
 	 * 获取云盘信息时的method参数值
 	 */

@@ -223,6 +223,16 @@ public class BaiduCloudBase {
 				
 		return fileBase;
 	}
+	/**
+	 *帮csdn网友测试
+	 *1我修改了info.java文件中的云盘路径以及ticket
+	 * @throws Exception 
+	 */
+	public void csdnFriends() throws Exception{
+		//获取云盘信息
+		getCloudInfo();
+		uploadFile("/",null);
+	}
 	public static void main(String[] args) throws Exception {
 		BaiduCloudBase base = new BaiduCloudBase();
 //		base.uploadFile("/",null);
@@ -230,7 +240,9 @@ public class BaiduCloudBase {
 //		base.getCloudInfo();
 //		System.out.println(base.getList(null));
 //		base.createDir(null);
-		base.getOnleFileOrDir(null);
+//		base.getOnleFileOrDir(null);
+		base.csdnFriends();
+		
 	}
 }
 
